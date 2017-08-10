@@ -1,3 +1,4 @@
 #忽略tmp文件
 tmp
 *.tmp
+*.txt
