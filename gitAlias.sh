@@ -1,3 +1,5 @@
+git config --global user.name SanhongWong;
+git config --global user.email 891910806@qq.com;
 git config --global alias.co checkout;
 git config --global alias.br branch;
 git config --global alias.ci commit;
